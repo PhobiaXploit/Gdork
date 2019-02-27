@@ -1,0 +1,2 @@
+# Gdork
+Simple Google Dorker
